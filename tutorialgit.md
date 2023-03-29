@@ -90,6 +90,12 @@
 
     git checkout <needing version of file>
 
+## Переключение к ветке мастер
+
+для переключения к ключевой ветке мастер необходимо ввести:
+
+    git checkout master
+
 
 
 
