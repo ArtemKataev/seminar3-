@@ -133,3 +133,4 @@
 
     git branch -d <branchname>
     
+## Принудительное удаление
